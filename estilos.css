@@ -87,6 +87,7 @@ body {
   color: black;
   font-size: 1.85rem;
   text-align: right;
+  width: 80%;
 }
 
 .calculadora-grilla > button:hover {
